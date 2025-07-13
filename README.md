@@ -35,7 +35,7 @@ Feel free to explore my repositories to see my progress and contribute to my lea
 - Email: (mailto:shivamkr8997@gmail.com)
 - LeetCode: (https://leetcode.com/u/Shivam_Kumar546/)
 
-Thanks for visiting my profile! Feel free to connect, collaborate, or leave suggestions for improvement. Let's build something awesome together! 🚀
+Thanks for visiting my profile! Feel free to connect, collaborate, or leave suggestions for improvement. 
 
 <!--
 **ShivamKumar911/ShivamKumar911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
