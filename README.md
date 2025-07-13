@@ -24,7 +24,7 @@ Here are some projects I’ve worked on as I continue to improve my Java develop
 1.🚧 **Journal App - Project in Progress**  
 Currently building a Journal App using Spring Boot and MongoDB with plans to integrate user authentication using Spring Security and JWT. So far, the backend APIs for journal entry management are complete. User-specific features and secure authentication are currently under development.
 
-2. 🏦 Basic Bank Management System - Spring Boot
+2.🏦 **Basic Bank Management System - Spring Boot**
 A simple RESTful **Bank Management System** built using **Spring Boot**. The application supports basic banking operations such as account creation, deposit, withdrawal, and balance inquiry via REST APIs.
 This project is designed to demonstrate backend development with Spring Boot, including controller-service-repository architecture, data validation, and simple business logic.
 Feel free to explore my repositories to see my progress and contribute to my learning journey.
