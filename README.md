@@ -21,32 +21,19 @@ I’m an aspiring **Java Developer** with a passion for building robust, scalabl
 
 Here are some projects I’ve worked on as I continue to improve my Java development skills:
 
-1. **[Simple E-commerce App](https://github.com/yourusername/ecommerce)**: A basic e-commerce platform developed with **Java** and **Spring Boot**. Users can browse products, add them to their cart, and checkout.
-2. **[Library Management System](https://github.com/yourusername/library-system)**: A Java console application to manage books in a library. It includes features such as adding/removing books, searching for books, and tracking borrow/return status.
-3. **[Student Management System](https://github.com/yourusername/student-management)**: A project for managing student data like marks, attendance, and grades. Built using **Java**, **JDBC**, and **MySQL**.
+1.🚧 **Journal App - Project in Progress**  
+Currently building a Journal App using Spring Boot and MongoDB with plans to integrate user authentication using Spring Security and JWT. So far, the backend APIs for journal entry management are complete. User-specific features and secure authentication are currently under development.
 
+# 🏦 Basic Bank Management System - Spring Boot
+A simple RESTful **Bank Management System** built using **Spring Boot**. The application supports basic banking operations such as account creation, deposit, withdrawal, and balance inquiry via REST APIs.
+This project is designed to demonstrate backend development with Spring Boot, including controller-service-repository architecture, data validation, and simple business logic.
 Feel free to explore my repositories to see my progress and contribute to my learning journey.
-
-## 📚 Currently Learning
-
-I’m currently focusing on:
-
-- Advanced Java concepts like **Multithreading**, **Concurrency**, and **Design Patterns**.
-- **Spring Boot** for building RESTful APIs and microservices.
-- **Database Optimization** techniques for better performance.
-- **Test-Driven Development (TDD)** with **JUnit**.
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- Portfolio: [YourPortfolio.com](https://yourportfolio.com)
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
+- LinkedIn: (https://www.linkedin.com/in/shivam-kumar-aspiringsoftwaredeveloper/)
+- Email: (mailto:shivamkr8997@gmail.com)
+- LeetCode: (https://leetcode.com/u/Shivam_Kumar546/)
 
 Thanks for visiting my profile! Feel free to connect, collaborate, or leave suggestions for improvement. Let's build something awesome together! 🚀
 
