@@ -23,7 +23,7 @@ Here are some projects I’ve worked on as I continue to improve my Java develop
 
 1.🚧 **Journal App - Project in Progress**  
 Currently building a Journal App using Spring Boot and MongoDB with plans to integrate user authentication using Spring Security and JWT. So far, the backend APIs for journal entry management are complete. User-specific features and secure authentication are currently under development.
-🔗 View the full project on GitHub: [Journal Application]
+🔗 View the full project on GitHub: [Journal Application](https://github.com/ShivamKumar911/journalApp)
 
 2.🏦 **Basic Bank Management System - Spring Boot**
 A simple RESTful **Bank Management System** built using **Spring Boot**. The application supports basic banking operations such as account creation, deposit, withdrawal, and balance inquiry via REST APIs.
